@@ -1,7 +1,7 @@
-<!doctype html>
+<head> 
+    <!doctype html>
 <html ng-app="torrent-web-poc">
-    <head>
-        <meta charset="UTF-8">
+    <meta charset="UTF-8">
         <title>Torrent Web, a proof of concept</title>
         <link rel="icon" type="image/png" href="logo.png">
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
